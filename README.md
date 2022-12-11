@@ -257,7 +257,7 @@ the DOM, the underlying mutations and changes in the update will form a new immu
 editor state. Calling `editor.getEditorState()` will then return the latest editor state
 based on the changes from the update.
 
-Here's an example of how you can update an editor instance:
+Here's an example of how you can Update an editor instance:
 
 ```js
 import {$getRoot, $getSelection, $createParagraphNode} from 'lexical';
